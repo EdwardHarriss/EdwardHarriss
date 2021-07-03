@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi, I'm Ed!
+
+👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) @ Imperial College 22'
+
+🖥️ Professional Services Intern @ [UiPath](https://www.uipath.com)
+
+🔭 I'm currently workin on RPA development.
+
+⚡ At the old age of 21, I believe to have mastered the art of scrambled eggs.
+
+🔗 https://edwardharriss.github.io
+
+Follow me on: [Linkedin](www.linkedin.com/in/edharriss/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardharriss&layout=compact&langs_count=8) 
 
 <!--
 **EdwardHarriss/EdwardHarriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
