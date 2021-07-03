@@ -10,8 +10,6 @@
 
 🔗 https://edwardharriss.github.io
 
-Follow me on: [Linkedin](www.linkedin.com/in/edharriss/)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardharriss&layout=compact&langs_count=8) 
 
 <!--
