@@ -4,7 +4,7 @@
 
 🖥️ Professional Services Intern @ [UiPath](https://www.uipath.com)
 
-🔭 I'm currently workin on RPA development.
+🔭 I'm currently working on RPA development.
 
 ⚡ At the old age of 21, I believe to have mastered the art of scrambled eggs.
 
