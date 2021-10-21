@@ -2,9 +2,9 @@
 
 👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) @ Imperial College 22'
 
-🖥️ Professional Services Intern @ [UiPath](https://www.uipath.com)
+🖥️ Ex-Professional Services Intern @ [UiPath](https://www.uipath.com)
 
-🔭 I'm currently working on RPA development.
+🔭 I'm currently working on Machine Learning and Deep Learning for Financial Systems
 
 ⚡ At the old age of 21, I believe to have mastered the art of scrambled eggs.
 
