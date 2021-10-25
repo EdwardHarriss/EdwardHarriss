@@ -6,7 +6,7 @@
 
 🔭 I'm currently working on Machine Learning and Deep Learning for Financial Systems
 
-⚡ At the old age of 21, I believe to have mastered the art of scrambled eggs.
+⚡ At the old age of 22, I believe to have mastered the art of scrambled eggs.
 
 🔗 https://edwardharriss.github.io
 
