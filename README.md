@@ -8,7 +8,11 @@
 
 ⚡ At the old age of 22, I believe to have mastered the art of scrambled eggs.
 
+🏆 1st Year and 3rd Year EE Department Award for Highest End of Year Project
+
 🔗 https://edwardharriss.github.io
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardharriss&layout=compact&langs_count=8) 
 
