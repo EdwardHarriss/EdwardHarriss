@@ -4,7 +4,7 @@
 
 🖥️ Ex-Professional Services Intern @ [UiPath](https://www.uipath.com)
 
-🔭 I'm currently working on Machine Learning and Deep Learning for Financial Systems with respect to Arbitrage in Cryptocurrency Systems
+🔭 I'm currently working on Arbitrage Strategies in Cryptocurrency Markets
 
 ⚡ At the old age of 22, I believe to have mastered the art of scrambled eggs.
 
