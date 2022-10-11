@@ -1,6 +1,6 @@
 ### Hi, I'm Ed!
 
-👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) @ Imperial College 22'
+👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) MEng @ Imperial College 22'
 
 🖥️ RPA Developer @ [UiPath](https://www.uipath.com)
 
