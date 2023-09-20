@@ -2,7 +2,7 @@
 
 👨🏽‍🎓 Computer Engineering (Electronic and Information Engineering) MEng @ Imperial College 22'
 
-🖥️ RPA Developer @ [UiPath](https://www.uipath.com)
+🖥️ Sales Engineer, Ex-RPA Developer @ [UiPath](https://www.uipath.com)
 
 🔭 I'm currently working on Arbitrage Strategies in Cryptocurrency Markets and possible web3 RPA applications
 
